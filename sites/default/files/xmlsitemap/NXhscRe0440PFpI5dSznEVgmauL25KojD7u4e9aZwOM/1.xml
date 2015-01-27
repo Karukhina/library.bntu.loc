@@ -32,6 +32,8 @@
 <url><loc>http://library.bntu.loc/tegi/izuchaem-matematiku</loc></url>
 <url><loc>http://library.bntu.loc/tegi/logistika</loc></url>
 <url><loc>http://library.bntu.loc/tegi/logistika-dvigatel-ekonomiki</loc></url>
+<url><loc>http://library.bntu.loc/tegi/znaem-li-my-chehova</loc></url>
+<url><loc>http://library.bntu.loc/tegi/chehov</loc></url>
 <url><loc>http://library.bntu.loc/tegi/cachoch</loc></url>
 <url><loc>http://library.bntu.loc/tegi/chahikos</loc></url>
 <url><loc>http://library.bntu.loc/tegi/frothejev</loc></url>
@@ -72,7 +74,7 @@
 <url><loc>http://library.bntu.loc/biblioteka-segodnya</loc><lastmod>2014-10-27T12:44Z</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
 <url><loc>http://library.bntu.loc/smk</loc><lastmod>2014-10-07T11:03Z</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
 <url><loc>http://library.bntu.loc/administraciya</loc><lastmod>2014-07-14T12:26Z</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
-<url><loc>http://library.bntu.loc/otdel-marketinga-i-proektnoy-deyatelnosti</loc><lastmod>2014-06-06T11:09Z</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
+<url><loc>http://library.bntu.loc/otdel-marketinga-i-proektnoy-deyatelnosti</loc><lastmod>2015-01-27T08:50Z</lastmod><changefreq>hourly</changefreq><priority>0.7</priority></url>
 <url><loc>http://library.bntu.loc/nauchno-metodicheskiy-otdel</loc><lastmod>2014-06-06T11:00Z</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
 <url><loc>http://library.bntu.loc/otdel-informacionnyh-tehnologiy</loc><lastmod>2014-07-22T08:02Z</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
 <url><loc>http://library.bntu.loc/otdel-komplektovaniya</loc><lastmod>2014-06-06T07:52Z</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
@@ -107,7 +109,7 @@
 <url><loc>http://library.bntu.loc/centr-neformalnogo-obrazovaniya</loc><lastmod>2014-08-06T12:39Z</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
 <url><loc>http://library.bntu.loc/poleznye-ssylki</loc><lastmod>2014-07-16T15:39Z</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
 <url><loc>http://library.bntu.loc/provesti-meropriyatie-v-biblioteke</loc><lastmod>2014-08-28T12:48Z</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
-<url><loc>http://library.bntu.loc/vystavki</loc><lastmod>2014-12-29T07:05Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>http://library.bntu.loc/vystavki</loc><lastmod>2015-01-27T08:39Z</lastmod><changefreq>hourly</changefreq><priority>0.7</priority></url>
 <url><loc>http://library.bntu.loc/virtualnye-vystavki</loc><lastmod>2014-07-28T13:08Z</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
 <url><loc>http://library.bntu.loc/forma-zakaza-meropriyatiya</loc><lastmod>2014-08-27T16:06Z</lastmod><changefreq>yearly</changefreq><priority>0.6</priority></url>
 <url><loc>http://library.bntu.loc/forma-zakaza-elektronnoy-dostavki-dokumentov</loc><lastmod>2014-10-27T06:38Z</lastmod><changefreq>yearly</changefreq><priority>0.6</priority></url>
@@ -132,7 +134,7 @@
 <url><loc>http://library.bntu.loc/priglashaem-na-tematicheskuyu-vystavku-tvoya-professiya-inzhener</loc><lastmod>2014-11-27T07:33Z</lastmod><changefreq>yearly</changefreq></url>
 <url><loc>http://library.bntu.loc/sostoyalsya-literaturno-muzykalnyy-vecher-vospetye-pushkinym</loc><lastmod>2014-11-27T11:39Z</lastmod><changefreq>yearly</changefreq></url>
 <url><loc>http://library.bntu.loc/ceminar-antiplagiat-vuz-novye-vozmozhnosti-povysheniya-kachestva-obrazovaniya-v-bntu</loc><lastmod>2014-12-08T13:21Z</lastmod><changefreq>monthly</changefreq></url>
-<url><loc>http://library.bntu.loc/oa</loc><lastmod>2015-01-13T09:30Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>http://library.bntu.loc/oa</loc><lastmod>2015-01-13T09:30Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>http://library.bntu.loc/v-bntu-sostoyalsya-seminar-antiplagiat-vuz-novye-vozmozhnosti-povysheniya-kachestva-obrazovaniya</loc><lastmod>2014-12-19T11:30Z</lastmod><changefreq>monthly</changefreq></url>
 <url><loc>http://library.bntu.loc/priglashaem-na-tematicheskuyu-vystavku-vash-personalnyy-kompyuter</loc><lastmod>2014-12-22T08:40Z</lastmod><changefreq>monthly</changefreq></url>
 <url><loc>http://library.bntu.loc/kontakty</loc><lastmod>2013-10-17T10:56Z</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
@@ -140,8 +142,9 @@
 <url><loc>http://library.bntu.loc/v-nauchnoy-biblioteke-bntu-demonstriruetsya-knizhnaya-vystavka-trudnosti-perevoda</loc><lastmod>2014-12-24T07:17Z</lastmod><changefreq>monthly</changefreq></url>
 <url><loc>http://library.bntu.loc/nauchnaya-biblioteka-bntu-predstavlyaet-vnimaniyu-polzovateley-tematicheskuyu-vystavku-tvoi-prava</loc><lastmod>2014-12-29T07:01Z</lastmod><changefreq>monthly</changefreq></url>
 <url><loc>http://library.bntu.loc/pozdravlyaem-s-novym-godom-i-rozhdestvom</loc><lastmod>2014-12-30T10:04Z</lastmod><changefreq>monthly</changefreq></url>
-<url><loc>http://library.bntu.loc/shkola-direktorov-iskusstvo-rezultativnogo-upravleniya-sovremennoy-bibliotekoy</loc><lastmod>2015-01-13T09:22Z</lastmod><changefreq>weekly</changefreq></url>
-<url><loc>http://library.bntu.loc/bntu-podklyuchen-k-ebs-universitetskaya-biblioteka-onlayn</loc><lastmod>2015-01-22T08:52Z</lastmod><changefreq>daily</changefreq></url>
-<url><loc>http://library.bntu.loc/v-nauchnoy-biblioteke-bntu-demonstriruetsya-tematicheskaya-vystavka-izuchaem-matematiku</loc><lastmod>2015-01-22T10:56Z</lastmod><changefreq>daily</changefreq></url>
-<url><loc>http://library.bntu.loc/tematicheskaya-vystavka-logistika-dvigatel-ekonomiki</loc><lastmod>2015-01-23T12:03Z</lastmod><changefreq>daily</changefreq></url>
+<url><loc>http://library.bntu.loc/shkola-direktorov-iskusstvo-rezultativnogo-upravleniya-sovremennoy-bibliotekoy</loc><lastmod>2015-01-13T09:22Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://library.bntu.loc/bntu-podklyuchen-k-ebs-universitetskaya-biblioteka-onlayn</loc><lastmod>2015-01-22T08:52Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>http://library.bntu.loc/v-nauchnoy-biblioteke-bntu-demonstriruetsya-tematicheskaya-vystavka-izuchaem-matematiku</loc><lastmod>2015-01-22T10:56Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>http://library.bntu.loc/tematicheskaya-vystavka-logistika-dvigatel-ekonomiki</loc><lastmod>2015-01-23T12:03Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>http://library.bntu.loc/nauchnaya-biblioteka-bntu-priglashaet-na-tematicheskuyu-vystavku-znaem-li-my-chehova</loc><lastmod>2015-01-27T08:37Z</lastmod><changefreq>hourly</changefreq></url>
 </urlset>
