@@ -67,7 +67,7 @@
 
 <div id="wrapper">
   <header id="header" role="banner">
-    <?php if ($logo): ?><div id="logo"><a href="<?php print $front_page; ?>" title="<?php print t('Home'); ?>"><img src="<?php print $logo; ?>"/></a></div><?php endif; ?>
+    <?php if ($logo): ?><div id="logo"><a href="http://library.bntu.by/15MUL" title="<?php print t('Home'); ?>"><img src="<?php print $logo; ?>"/></a></div><?php endif; ?>
     <?php if ($site_name): ?><h1 id="site-title"><a href="<?php print $front_page; ?>" title="<?php print t('Home'); ?>"><?php print $site_name; ?></a></h1><?php endif; ?>
     <?php if ($site_slogan): ?><div id="site-description"><?php print $site_slogan; ?></div><?php endif; ?>
     <div class="clear"></div>
@@ -273,7 +273,7 @@
     <?php } ?>
     <!--Remove Theme Credit by Setting -->
     <?php if (!theme_get_setting('display_theme_credit')): ?>
-      <p class="credits"> <?php print t(''); ?>  <a href="http://library.bntu.loc/conferences">Conferences</a></p>
+      <p class="credits"> <?php print t(''); ?>  <a href="http://library.bntu.loc/15MUL">Conferences</a></p>
     <?php endif; ?>
     <div class="clear"></div>
     </div>
