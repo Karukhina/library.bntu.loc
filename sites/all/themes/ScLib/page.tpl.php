@@ -160,11 +160,15 @@ ob_start(); ?>
 <div class="art-content-layout">
     <div class="art-content-layout-row">
     <div class="art-layout-cell layout-item-2" style="width: 100%">
-        <p style="text-align: right;">
+        <p style="text-align: right;">Мы в соцсетях:
 		<a href="#"><img width="30" height="30" alt="Лента научной библиотеки БНТУ" src="images/rss_32.png" style="border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;"></a>
+		
 		<a target="_blank" rel="noindex, nofollow" href="http://libraryblog.blog.tut.by/"><img width="31" height="30" alt="Блог научной библиотеки БНТУ" class="art-lightbox" src="images/blog.png" style="border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;"></a>
 		<a target="_blank" rel="noindex, nofollow" href="http://www.facebook.com/bntulibrary"><img width="31" height="31" alt="Аккаунт научной библиотеки БНТУ" src="images/facebook_32.png" style="border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;"></a>
 		<a target="_blank" rel="noindex, nofollow" href="http://twitter.com/biblioteka"><img width="38" height="30" alt="Аккаунт научной библиотеки БНТУ" class="art-lightbox" src="images/twitter_new_single.png" style="border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;"></a>
+		
+		<a target="_blank" rel="noindex, nofollow" href="http://instagram.com/bntulibrary/"><img width="31" height="30" alt="Аккаунт научной библиотеки БНТУ" class="art-lightbox" src="images/instagr_logo.jpg" style="border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;"></a>
+		
 		<a target="_blank" rel="noindex, nofollow" href="https://foursquare.com/venue/25274836"><img width="31" height="31" alt="" src="images/foursquare_.png" style="border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;"></a>
 		<a target="_blank" rel="noindex, nofollow" href="http://vk.com/bntulibrary"><img width="31" height="31" alt="Аккаунт научной библиотеки БНТУ" class="art-lightbox" src="images/vk.png" style="border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;"></a>
 		<a target="_blank" rel="noindex, nofollow" href="http://fotki.yandex.ru/users/bntulibrary/"><img width="31" height="31" alt="фотки научной библиотеки БНТУ" class="art-lightbox" src="images/yandex.png" style="border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;"></a>
